@@ -1,0 +1,7 @@
+Map: zs_urban_strain
+Status: Complete
+Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
+
+Map: zs_nysc_b4a
+Status: In Progress
+Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
