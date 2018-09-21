@@ -1,6 +1,7 @@
 Map: zs_urban_strain
 Status: Complete
 Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
+Reviewer(s): Sorre(https://steamcommunity.com/id/sorre111)
 
 Map: zs_nysc_b4a
 Status: In Progress
