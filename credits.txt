@@ -4,5 +4,10 @@ Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
 Reviewer(s): Sorre(https://steamcommunity.com/id/sorre111)
 
 Map: zs_nysc_b4a
-Status: In Progress
+Status: Complete
+Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
+Reviewer(s): 4th Life Community(https://steamcommunity.com/groups/4thLife)
+
+Map: zs_the_pub_final7
+Status: Mostly Complete
 Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
