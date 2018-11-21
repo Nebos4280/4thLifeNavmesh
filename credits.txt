@@ -11,3 +11,15 @@ Reviewer(s): 4th Life Community(https://steamcommunity.com/groups/4thLife)
 Map: zs_the_pub_final7
 Status: Mostly Complete
 Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
+
+Map: zs_trainstation
+Status: Complete
+Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
+
+Map: zs_dynamo_v1
+Status: Complete
+Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/), Yun(https://steamcommunity.com/profiles/76561198332596156/)
+
+Map: zs_asdf_b1
+Status: Complete
+Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
