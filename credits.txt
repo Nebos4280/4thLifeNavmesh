@@ -23,3 +23,7 @@ Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/), Yun(https://steamc
 Map: zs_asdf_b1
 Status: Complete
 Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
+
+Map: zs_asdf_b2
+Status: Complete
+Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
