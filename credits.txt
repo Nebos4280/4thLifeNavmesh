@@ -8,6 +8,11 @@ Status: Complete
 Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
 Reviewer(s): 4th Life Community(https://steamcommunity.com/groups/4thLife)
 
+Map: zs_nysc_b5a
+Status: Complete
+Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
+Reviewer(s): Hippo
+
 Map: zs_the_pub_final7
 Status: Mostly Complete
 Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
@@ -27,3 +32,4 @@ Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
 Map: zs_asdf_b2
 Status: Complete
 Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
+Reviewer(s): Hippo
