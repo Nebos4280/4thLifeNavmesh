@@ -1,35 +1,43 @@
 Map: zs_urban_strain
 Status: Complete
-Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
-Reviewer(s): Sorre(https://steamcommunity.com/id/sorre111)
+Navmesher(s): Nebos(http://steamcommunity.com/profiles/76561197995133037/)
+Reviewer(s): Sorre(https://steamcommunity.com/id/sorre111/)
+
+Map: zs_urban_strain_b1
+Status: Complete
+Navmesher(s): Nebos(http://steamcommunity.com/profiles/76561197995133037/)
 
 Map: zs_nysc_b4a
 Status: Complete
-Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
-Reviewer(s): 4th Life Community(https://steamcommunity.com/groups/4thLife)
+Navmesher(s): Nebos(http://steamcommunity.com/profiles/76561197995133037/)
+Reviewer(s): 4th Life Community(https://steamcommunity.com/groups/4thLife/)
 
 Map: zs_nysc_b5a
 Status: Complete
-Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
+Navmesher(s): Nebos(http://steamcommunity.com/profiles/76561197995133037/)
 Reviewer(s): Hippo
 
 Map: zs_the_pub_final7
 Status: Mostly Complete
-Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
+Navmesher(s): Nebos(http://steamcommunity.com/profiles/76561197995133037/)
 
 Map: zs_trainstation
 Status: Complete
-Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
+Navmesher(s): Nebos(http://steamcommunity.com/profiles/76561197995133037/)
 
 Map: zs_dynamo_v1
 Status: Complete
-Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/), Yun(https://steamcommunity.com/profiles/76561198332596156/)
+Navmesher(s): Nebos(http://steamcommunity.com/profiles/76561197995133037/), Yun(https://steamcommunity.com/profiles/76561198332596156/)
 
 Map: zs_asdf_b1
 Status: Complete
-Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
+Navmesher(s): Nebos(http://steamcommunity.com/profiles/76561197995133037/)
 
 Map: zs_asdf_b2
 Status: Complete
-Navmesher(s): Nebos(https://steamcommunity.com/id/thenebos/)
-Reviewer(s): Hippo
+Navmesher(s): Nebos(http://steamcommunity.com/profiles/76561197995133037/)
+Reviewer(s): Hippo(https://steamcommunity.com/profiles/76561198087033205/)
+
+Map: zs_orilla_estate_b1
+Status: Coming Soon
+Navmesher(s): Nebos(http://steamcommunity.com/profiles/76561197995133037/)
