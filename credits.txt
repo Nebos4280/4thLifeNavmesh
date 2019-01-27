@@ -39,5 +39,5 @@ Navmesher(s): Nebos(http://steamcommunity.com/profiles/76561197995133037/)
 Reviewer(s): Hippo(https://steamcommunity.com/profiles/76561198087033205/)
 
 Map: zs_orilla_estate_b1
-Status: Coming Soon
+Status: Complete
 Navmesher(s): Nebos(http://steamcommunity.com/profiles/76561197995133037/)
